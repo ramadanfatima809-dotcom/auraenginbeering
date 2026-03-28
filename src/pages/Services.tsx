@@ -62,7 +62,7 @@ const Services = () => {
   return (
     <Layout>
       <SEO
-        title="Our Services - AURA Engineering Company"
+        title="Our Services - AURA Technical Engineering Company"
         description="Professional electrical installation, building wiring, industrial electrical works, transformer installation, networking, construction, and maintenance services in Nigeria."
         keywords="electrical installation, building wiring, industrial electrical, transformer installation, networking cabling, construction services, maintenance repairs"
       />

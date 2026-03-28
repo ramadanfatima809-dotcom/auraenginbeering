@@ -4,7 +4,7 @@ const testimonials = [
      {
           name: "Musa Ibrahim",
           company: "Kano Industrial Complex",
-          text: "AURA Engineering delivered exceptional electrical installation for our factory. Professional, timely, and reliable service.",
+          text: "AURA Technical Engineering delivered exceptional electrical installation for our factory. Professional, timely, and reliable service.",
           rating: 5,
      },
      {
@@ -16,7 +16,7 @@ const testimonials = [
      {
           name: "Ahmed Suleiman",
           company: "Northern Power Distribution",
-          text: "Outstanding transformer installation work. AURA Engineering's technical expertise and safety standards are top-notch.",
+          text: "Outstanding transformer installation work. AURA Technical Engineering's technical expertise and safety standards are top-notch.",
           rating: 5,
      },
 ];

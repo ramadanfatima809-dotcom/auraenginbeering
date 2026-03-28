@@ -48,7 +48,7 @@ export const sendContactEmail = async (formData: ContactFormData): Promise<boole
                     phone: formData.phone || 'Not provided',
                     service: formData.service || 'General Inquiry',
                     message: formData.message,
-                    to_name: 'AURA Engineering',
+                    to_name: 'AURA Technical Engineering',
                }
           );
 
@@ -63,7 +63,7 @@ export const sendContactEmail = async (formData: ContactFormData): Promise<boole
 /*
 Subject: New Contact Form Submission - {{service}}
 
-Hello AURA Engineering Team,
+Hello AURA Technical Engineering Team,
 
 You have received a new contact form submission:
 
@@ -76,5 +76,5 @@ Message:
 {{message}}
 
 ---
-This email was sent from the AURA Engineering website contact form.
+This email was sent from the AURA Technical Engineering website contact form.
 */

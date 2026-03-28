@@ -29,84 +29,84 @@ interface Project {
 const projects: Project[] = [
   {
     img: project1,
-    label: "Commercial Electrical Wiring",
-    category: "electrical",
-    description: "Complete electrical system installation for 5-story commercial building",
-    client: "Greenfield Properties",
+    label: "Industrial Construction Project",
+    category: "construction",
+    description: "Steel framework construction for industrial facility with water storage tanks",
+    client: "Industrial Client",
     year: "2025",
-    alt: "Modern commercial building electrical wiring installation with organized cable management"
+    alt: "Construction site showing steel framework installation between industrial water storage tanks and blue warehouse building"
   },
   {
     img: project2,
-    label: "Industrial Switchgear Installation",
-    category: "industrial",
-    description: "High-voltage switchgear installation for manufacturing facility",
-    client: "Kano Industrial Complex",
+    label: "Steel Structure Installation",
+    category: "construction",
+    description: "High-level steel framework installation with safety protocols",
+    client: "Commercial Development",
     year: "2025",
-    alt: "High-voltage industrial switchgear installation in manufacturing facility"
+    alt: "Workers installing steel framework structure at height using ladders and safety equipment"
   },
   {
     img: project3,
-    label: "Residential Wiring Project",
-    category: "electrical",
-    description: "Full electrical wiring for luxury residential estate",
-    client: "Private Client",
+    label: "Generator Installation",
+    category: "industrial",
+    description: "Industrial generator installation and commissioning",
+    client: "Manufacturing Facility",
     year: "2024",
-    alt: "Luxury residential home electrical wiring with modern fixtures and smart home integration"
+    alt: "Large turquoise industrial generator with exhaust system installed at outdoor facility"
   },
   {
     img: project4,
-    label: "Transformer Substation Setup",
-    category: "industrial",
-    description: "500KVA transformer installation and substation commissioning",
-    client: "Northern Power Distribution",
+    label: "Structural Steel Works",
+    category: "construction",
+    description: "Multi-level steel structure framework installation",
+    client: "Industrial Complex",
     year: "2024",
-    alt: "500KVA transformer substation setup for industrial power distribution"
+    alt: "Workers on ladders installing red and silver steel framework for industrial building structure"
   },
   {
     img: project5,
-    label: "Data Center Cabling",
-    category: "electrical",
-    description: "Structured cabling and network infrastructure for data center",
-    client: "TechHub Kano",
+    label: "Industrial Steel Framework",
+    category: "industrial",
+    description: "Large-scale industrial steel structure construction",
+    client: "Manufacturing Plant",
     year: "2025",
-    alt: "Professional data center structured cabling with fiber optic and ethernet infrastructure"
+    alt: "Multi-story industrial steel framework structure with platforms and walkways under construction"
   },
   {
     img: project6,
-    label: "Commercial Building Construction",
-    category: "construction",
-    description: "Ground-up construction of 3-story commercial plaza",
-    client: "Kano Development Authority",
+    label: "Electrical Control Panel Installation",
+    category: "electrical",
+    description: "Industrial electrical control panels and cable management system",
+    client: "Industrial Facility",
     year: "2024",
-    alt: "Modern commercial plaza construction project with steel and concrete structure"
+    alt: "Professional electrical control panel installation with organized cable tray system and ACCORD brand switchgear"
   },
   {
     img: project7,
-    label: "Street Lighting Installation",
-    category: "electrical",
-    description: "LED street lighting system for 5km urban road network",
-    client: "Kano State Government",
+    label: "Commercial Building Steel Structure",
+    category: "construction",
+    description: "Multi-story commercial building steel framework construction",
+    client: "Commercial Development",
     year: "2025",
-    alt: "Energy-efficient LED street lighting system installation on urban roads"
+    alt: "Green commercial building with steel framework structure under construction showing multiple floors"
   },
   {
     img: project8,
-    label: "Solar Panel Installation",
-    category: "electrical",
-    description: "50KW solar power system for commercial facility",
-    client: "Eco Solutions Ltd",
+    label: "Industrial Plant Construction",
+    category: "industrial",
+    description: "Large-scale industrial plant steel structure and framework",
+    client: "Industrial Client",
     year: "2024",
-    alt: "Commercial rooftop solar panel installation with inverter and battery backup system"
+    alt: "Massive multi-level industrial plant steel structure with complex framework and platforms under construction"
   },
   {
     img: project9,
-    label: "High-Rise Construction",
+    label: "Infrastructure Development",
     category: "construction",
-    description: "Structural and electrical work for 10-story residential tower",
-    client: "Urban Living Developments",
+    description: "Commercial infrastructure and structural steel installation",
+    client: "Development Authority",
     year: "2025",
-    alt: "High-rise residential tower construction with modern architectural design"
+    alt: "Commercial infrastructure project showing steel framework and construction materials on site"
   },
 ];
 
@@ -120,7 +120,7 @@ const Projects = () => {
   return (
     <Layout>
       <SEO
-        title="Our Projects - AURA Engineering Company"
+        title="Our Projects - AURA Technical Engineering Company"
         description="Explore our portfolio of completed electrical, construction, and industrial engineering projects across Nigeria. Quality work delivered on time."
         keywords="engineering projects, electrical projects, construction portfolio, industrial projects, Kano projects"
       />

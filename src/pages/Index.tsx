@@ -26,10 +26,10 @@ const services = [
 ];
 
 const featuredProjects = [
-  { img: project1, label: "Commercial Wiring Project", alt: "Modern commercial building electrical wiring installation with organized cable management" },
-  { img: project2, label: "Industrial Switchgear Installation", alt: "High-voltage industrial switchgear installation in manufacturing facility" },
-  { img: project4, label: "Transformer Substation", alt: "500KVA transformer substation setup for industrial power distribution" },
-  { img: project7, label: "Street Lighting Installation", alt: "Energy-efficient LED street lighting system installation on urban roads" },
+  { img: project1, label: "Industrial Construction", alt: "Steel framework construction for industrial facility with water storage tanks" },
+  { img: project2, label: "Steel Structure Installation", alt: "Workers installing steel framework structure at height with safety equipment" },
+  { img: project4, label: "Structural Steel Works", alt: "Multi-level steel structure framework installation for industrial building" },
+  { img: project7, label: "Commercial Building Construction", alt: "Multi-story commercial building steel framework under construction" },
 ];
 
 const Index = () => {
@@ -44,7 +44,7 @@ const Index = () => {
           className="absolute inset-0 bg-cover bg-center"
           style={{ backgroundImage: `url(${heroBg})` }}
           role="img"
-          aria-label="AURA Engineering construction site with electrical infrastructure"
+          aria-label="AURA Technical Engineering construction site with electrical infrastructure"
         />
         <div className="absolute inset-0 bg-primary/75" />
         <div className="relative z-10 container mx-auto px-4 lg:px-8 text-center text-primary-foreground">
@@ -80,16 +80,16 @@ const Index = () => {
             <AnimatedSection>
               <ImageWithFallback
                 src={engineersTeam}
-                alt="AURA Engineering professional team of engineers and technicians working on electrical installation project"
+                alt="AURA Technical Engineering professional team of engineers and technicians working on electrical installation project"
                 className="rounded w-full h-80 object-cover"
                 loading="eager"
               />
             </AnimatedSection>
             <AnimatedSection delay={0.2}>
               <div>
-                <h2 className="text-h2">About AURA Engineering</h2>
+                <h2 className="text-h2">About AURA Technical Engineering</h2>
                 <p className="text-body-lg text-muted-foreground mt-4 leading-relaxed">
-                  AURA Engineering Company is a trusted provider of professional electrical and construction services. With years of experience, we deliver reliable, safe, and high-quality solutions for residential, commercial, and industrial projects across Nigeria.
+                  AURA Technical Engineering Company is a trusted provider of professional electrical and construction services. With years of experience, we deliver reliable, safe, and high-quality solutions for residential, commercial, and industrial projects across Nigeria.
                 </p>
                 <Link
                   to="/about"

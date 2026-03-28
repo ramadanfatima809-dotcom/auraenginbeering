@@ -1,6 +1,6 @@
-# AURA Engineering Company Website
+# AURA Technical Engineering Company Website
 
-Professional website for AURA Engineering Company - a leading provider of electrical and construction services in Kano, Nigeria.
+Professional website for AURA Technical Engineering Company - a leading provider of electrical and construction services in Kano, Nigeria.
 
 ## 🌟 Features
 
@@ -241,10 +241,10 @@ netlify deploy --prod
 
 ## 📞 Contact Information
 
-**AURA Engineering Company**
+**AURA Technical Engineering Company**
 
 - **Address**: Plot 14/27 Naibawa Along NNPC pipeline, Kumbotso LGA, Kano State, Nigeria
-- **Phone**: +234 803 268 5802, +234 806 545 6330
+- **Phone**: 0803 268 5802, 0802 236 2816
 - **Email**: nuhuramadam@yahoo.com
 
 ## 📄 License
@@ -257,4 +257,4 @@ For technical support or questions about the website, please contact the develop
 
 ---
 
-**Built with ❤️ for AURA Engineering Company**
+**Built with ❤️ for AURA Technical Engineering Company**

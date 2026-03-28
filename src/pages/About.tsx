@@ -19,12 +19,12 @@ const About = () => {
   return (
     <Layout>
       <SEO
-        title="About Us - AURA Engineering Company"
-        description="Learn about AURA Engineering Company, a leading provider of electrical and construction services in Kano, Nigeria. Our mission, vision, and core values."
-        keywords="about AURA Engineering, engineering company Kano, electrical services Nigeria, construction company"
+        title="About Us - AURA Technical Engineering Company"
+        description="Learn about AURA Technical Engineering Company, a leading provider of electrical and construction services in Kano, Nigeria. Our mission, vision, and core values."
+        keywords="about AURA Technical Engineering, engineering company Kano, electrical services Nigeria, construction company"
       />
       <PageHeader
-        title="About AURA Engineering Company"
+        title="About AURA Technical Engineering Company"
         subtitle="Building trust through quality engineering since our founding."
       />
 
@@ -36,7 +36,7 @@ const About = () => {
               <div>
                 <h2 className="text-h2">Who We Are</h2>
                 <p className="text-body-lg text-muted-foreground mt-4 leading-relaxed">
-                  AURA Engineering Company is a leading provider of electrical and construction services based in Kano State, Nigeria. We specialize in electrical installations, building wiring, industrial electrical works, transformer installations, networking, and general construction.
+                  AURA Technical Engineering Company is a leading provider of electrical and construction services based in Kano State, Nigeria. We specialize in electrical installations, building wiring, industrial electrical works, transformer installations, networking, and general construction.
                 </p>
                 <p className="text-body text-muted-foreground mt-4 leading-relaxed">
                   With a dedicated team of experienced engineers and technicians, we are committed to delivering safe, reliable, and high-quality engineering solutions. Our track record spans residential, commercial, and industrial projects across the region.
@@ -46,7 +46,7 @@ const About = () => {
             <AnimatedSection delay={0.2}>
               <ImageWithFallback
                 src={aboutCompany}
-                alt="AURA Engineering professional engineer inspecting electrical installation with safety equipment"
+                alt="AURA Technical Engineering professional engineer inspecting electrical installation with safety equipment"
                 className="rounded w-full h-80 object-cover"
               />
             </AnimatedSection>
@@ -110,7 +110,7 @@ const About = () => {
           <AnimatedSection delay={0.2}>
             <ImageWithFallback
               src={engineersTeam}
-              alt="AURA Engineering team of professional engineers and technicians at construction site"
+              alt="AURA Technical Engineering team of professional engineers and technicians at construction site"
               className="rounded w-full max-w-3xl mx-auto mt-8 h-72 object-cover"
             />
           </AnimatedSection>

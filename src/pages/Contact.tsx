@@ -60,9 +60,9 @@ const Contact = () => {
   return (
     <Layout>
       <SEO
-        title="Contact Us - AURA Engineering Company"
-        description="Get in touch with AURA Engineering Company for electrical, construction, and engineering services. Located in Kano, Nigeria. Call +2348032685802"
-        keywords="contact AURA Engineering, engineering company Kano, electrical services contact, construction quote"
+        title="Contact Us - AURA Technical Engineering Company"
+        description="Get in touch with AURA Technical Engineering Company for electrical, construction, and engineering services. Located in Kano, Nigeria. Call 0803 268 5802"
+        keywords="contact AURA Technical Engineering, engineering company Kano, electrical services contact, construction quote"
       />
       <PageHeader
         title="Contact Us"
@@ -100,10 +100,10 @@ const Contact = () => {
                     <div>
                       <h4 className="font-heading font-semibold text-body">Phone</h4>
                       <a href="tel:+2348032685802" className="text-sm text-muted-foreground hover:text-accent transition-colors block mt-1">
-                        +234 803 268 5802
+                        0803 268 5802
                       </a>
-                      <a href="tel:+2348065456330" className="text-sm text-muted-foreground hover:text-accent transition-colors block">
-                        +234 806 545 6330
+                      <a href="tel:+2348022362816" className="text-sm text-muted-foreground hover:text-accent transition-colors block">
+                        0802 236 2816
                       </a>
                     </div>
                   </div>

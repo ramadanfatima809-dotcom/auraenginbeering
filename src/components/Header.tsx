@@ -33,7 +33,7 @@ const Header = () => {
     >
       <div className="container mx-auto flex items-center justify-between py-4 px-4 lg:px-8">
         <Link to="/" className="font-heading text-h3 text-primary font-bold tracking-tight">
-          AURA <span className="text-accent">Engineering</span>
+          AURA <span className="text-accent">Technical Engineering</span>
         </Link>
 
         {/* Desktop nav */}

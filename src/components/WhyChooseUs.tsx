@@ -11,7 +11,7 @@ const WhyChooseUs = () => {
      return (
           <section className="py-16 md:py-20 bg-primary text-primary-foreground">
                <div className="container mx-auto px-4 lg:px-8">
-                    <h2 className="text-h2 text-center">Why Choose AURA Engineering?</h2>
+                    <h2 className="text-h2 text-center">Why Choose AURA Technical Engineering?</h2>
                     <p className="text-body-lg text-center mt-3 max-w-2xl mx-auto opacity-90">
                          Your trusted partner for reliable engineering solutions
                     </p>

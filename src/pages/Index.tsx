@@ -87,9 +87,9 @@ const Index = () => {
             </AnimatedSection>
             <AnimatedSection delay={0.2}>
               <div>
-                <h2 className="text-h2">About AURA Technical Engineering</h2>
+                <h2 className="text-h2">About Aura technical and general enterprises limited</h2>
                 <p className="text-body-lg text-muted-foreground mt-4 leading-relaxed">
-                  AURA Technical Engineering Company is a trusted provider of professional electrical and construction services. With years of experience, we deliver reliable, safe, and high-quality solutions for residential, commercial, and industrial projects across Nigeria.
+                  Aura technical and general enterprises limited is a trusted provider of professional electrical and construction services. With years of experience, we deliver reliable, safe, and high-quality solutions for residential, commercial, and industrial projects across Nigeria.
                 </p>
                 <Link
                   to="/about"

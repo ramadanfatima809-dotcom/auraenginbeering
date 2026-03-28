@@ -9,7 +9,7 @@ interface SEOProps {
 }
 
 const SEO = ({
-     title = "AURA Technical Engineering Company - Professional Electrical & Construction Services",
+     title = "Aura technical and general enterprises limited - Professional Electrical & Construction Services",
      description = "Leading provider of electrical installation, building wiring, industrial electrical works, transformer installation, and construction services in Kano, Nigeria.",
      keywords = "electrical installation, building wiring, industrial electrical, transformer installation, construction services, engineering company, Kano Nigeria",
      image = "/placeholder.svg",
@@ -37,7 +37,7 @@ const SEO = ({
                {/* Additional SEO */}
                <link rel="canonical" href={url} />
                <meta name="robots" content="index, follow" />
-               <meta name="author" content="AURA Technical Engineering Company" />
+               <meta name="author" content="Aura technical and general enterprises limited" />
           </Helmet>
      );
 };

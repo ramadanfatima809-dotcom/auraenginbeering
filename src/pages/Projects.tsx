@@ -120,7 +120,7 @@ const Projects = () => {
   return (
     <Layout>
       <SEO
-        title="Our Projects - AURA Technical Engineering Company"
+        title="Our Projects - Aura technical and general enterprises limited"
         description="Explore our portfolio of completed electrical, construction, and industrial engineering projects across Nigeria. Quality work delivered on time."
         keywords="engineering projects, electrical projects, construction portfolio, industrial projects, Kano projects"
       />

@@ -7,7 +7,7 @@ const NotFound = () => {
   return (
     <Layout>
       <SEO
-        title="Page Not Found - AURA Technical Engineering Company"
+        title="Page Not Found - Aura technical and general enterprises limited"
         description="The page you're looking for doesn't exist."
       />
       <div className="min-h-[60vh] flex items-center justify-center px-4">

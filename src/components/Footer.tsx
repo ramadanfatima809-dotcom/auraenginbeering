@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {/* Company Info */}
           <div>
-            <h3 className="text-h3 mb-3">AURA Technical Engineering</h3>
+            <h3 className="text-h3 mb-3">Aura technical and general enterprises limited</h3>
             <p className="text-body opacity-80">Powering Reliable Infrastructure</p>
             <p className="text-sm mt-4 opacity-70">
               Professional electrical and construction solutions for residential, commercial, and industrial projects.
@@ -68,7 +68,7 @@ const Footer = () => {
       <div className="border-t border-primary-foreground/20">
         <div className="container mx-auto px-4 lg:px-8 py-5 text-center">
           <p className="text-sm opacity-70">
-            © 2026 AURA Technical Engineering Company. All rights reserved.
+            © 2026 Aura technical and general enterprises limited. All rights reserved.
           </p>
         </div>
       </div>

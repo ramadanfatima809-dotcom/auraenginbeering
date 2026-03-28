@@ -4,7 +4,7 @@ const StructuredData = () => {
      const organizationSchema = {
           "@context": "https://schema.org",
           "@type": "Organization",
-          "name": "AURA Technical Engineering Company",
+          "name": "Aura technical and general enterprises limited",
           "description": "Professional electrical and construction services in Kano, Nigeria",
           "url": "https://auraengineering.com",
           "logo": "https://auraengineering.com/placeholder.svg",
@@ -28,7 +28,7 @@ const StructuredData = () => {
      const localBusinessSchema = {
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
-          "name": "AURA Technical Engineering Company",
+          "name": "Aura technical and general enterprises limited",
           "image": "https://auraengineering.com/placeholder.svg",
           "priceRange": "$$",
           "address": {

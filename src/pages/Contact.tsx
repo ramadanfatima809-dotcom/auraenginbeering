@@ -60,9 +60,9 @@ const Contact = () => {
   return (
     <Layout>
       <SEO
-        title="Contact Us - AURA Technical Engineering Company"
-        description="Get in touch with AURA Technical Engineering Company for electrical, construction, and engineering services. Located in Kano, Nigeria. Call 0803 268 5802"
-        keywords="contact AURA Technical Engineering, engineering company Kano, electrical services contact, construction quote"
+        title="Contact Us - Aura technical and general enterprises limited"
+        description="Get in touch with Aura technical and general enterprises limited for electrical, construction, and engineering services. Located in Kano, Nigeria. Call 0803 268 5802"
+        keywords="contact Aura technical and general enterprises limited, engineering company Kano, electrical services contact, construction quote"
       />
       <PageHeader
         title="Contact Us"
